@@ -3,8 +3,8 @@ A web chat program built using Java
 
 **Instructions**
 
-- Run ChatServer
-- Once server is up and running run ClientServer
+- Run ChatServer.java
+- Once server is up and running run ClientServer.java
 - Type messages into the console window and press Enter after each message
 - To leave the chat session from either side enter “/q”
 
