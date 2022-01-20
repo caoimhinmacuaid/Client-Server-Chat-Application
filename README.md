@@ -3,7 +3,7 @@ A web chat program built using Java
 
 **Program in action**
 
-https://giphy.com/gifs/C0vQ31nNKorRkb3A1m
+![Alt Text](https://media.giphy.com/media/C0vQ31nNKorRkb3A1m/giphy.gif)
 
 **Instructions**
 
