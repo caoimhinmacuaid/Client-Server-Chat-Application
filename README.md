@@ -1,6 +1,10 @@
 # Client-Server-Chat-Program
 A web chat program built using Java
 
+**Program in action**
+
+https://giphy.com/gifs/C0vQ31nNKorRkb3A1m
+
 **Instructions**
 
 - Run ChatServer.java
