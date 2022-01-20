@@ -37,5 +37,7 @@ If “/q” is entered without the uncaught exception handler, a thread exceptio
 **References**
 
 [1] Thread (Java Platform SE 7 ) (2022). Available at: https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html (Accessed: 11 January 2022).
+
 [2] java.io (Java Platform SE 7 ) (2022). Available at: https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html (Accessed: 11 January 2022).
+
 [3] Thread.UncaughtExceptionHandler (Java Platform SE 7 ) (2022). Available at: https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.UncaughtExceptionHandl er.html (Accessed: 11 January 2022).
